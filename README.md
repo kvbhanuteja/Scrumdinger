@@ -1,9 +1,9 @@
 # Scrumdinger
 
-![add screen](https://user-images.githubusercontent.com/33037967/179343933-ada71de5-b4b0-48d9-8623-a768aa9044e6.png)
-![themes](https://user-images.githubusercontent.com/33037967/179343945-5e963728-871a-410c-a071-e62dc6049a75.png)
-![Home](https://user-images.githubusercontent.com/33037967/179343955-fb3a426f-05d2-49e0-ad59-3158817778a0.png)
-![Details](https://user-images.githubusercontent.com/33037967/179343963-1cd94931-8631-4b0c-a999-d9575f492c15.png)
-![meeting1](https://user-images.githubusercontent.com/33037967/179343976-9345a097-7d09-46fb-a10f-2267d939ce36.png)
-![meeting2](https://user-images.githubusercontent.com/33037967/179343982-0b0bfddd-3f75-4435-8af4-0bc8d0206cd5.png)
-![metting3](https://user-images.githubusercontent.com/33037967/179344053-7917083f-1b41-4cbd-a084-665edfa2379f.png)
+
+![add screen](https://user-images.githubusercontent.com/33037967/179344114-b1fdadbb-c2d8-4f8c-b33c-50c9a9b49d1e.png)
+![themes](https://user-images.githubusercontent.com/33037967/179344134-980a7169-f22c-45c2-ad54-859a8c5ed446.png)
+![Home](https://user-images.githubusercontent.com/33037967/179344129-65f3f154-3f6e-4b23-9d6e-372e130fc154.png)
+![Details](https://user-images.githubusercontent.com/33037967/179344128-65472f64-1952-462e-841a-b27bb1503e15.png)
+![meeting1](https://user-images.githubusercontent.com/33037967/179344131-c9d07c7d-35c0-42ae-a7be-1c31d9e45969.png)
+![meeting2](https://user-images.githubusercontent.com/33037967/179344132-34253d82-c3fa-402a-b0dc-f80a9fea7f81.png)
